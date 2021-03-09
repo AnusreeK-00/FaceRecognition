@@ -10,5 +10,5 @@ pip install opencv-python<br><br>
 Create a folder called known_people (make sure this is in the same directory as recognize_face.py).<br>
 Now we can add pictures of people we wish to identify by saving an image of their face in the known_people folder. Make sure the person is facing forwards and is the only person in the photograph (crop if necessary). We name each file as the person’s name, as we wish it to appear on screen. In this case, only the .jpg files will be used.<br>
 
-<h4> To run the program:</h4>
+<h4>To run the program:</h4>
 Run the recognize_face.py file in the terminal or cmd using appropriate commands.
